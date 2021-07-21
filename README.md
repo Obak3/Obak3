@@ -1,14 +1,14 @@
 ### Hey, I'm Kyle!
 
+
+My name is [Kyle Bess](https://www.linkedin.com/in/kyle9bess/) and I'm a graduate student at the University of Pennsylvania. My main interests consist of trying to better understand the intricacies and minutia of software security and architecture. I'm mainly a Python and Go Dev, but can't wait to touch more techs. Welcome to my GitHub! Feel free to check out my projects and medium articles.
+
 <!--
-**Obak3/Obak3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-I'm a graduate student at the University of Pennsylvania that is focusing on diversifying the tech stacks that I can work in to better diversify my abilities. I love cybersecurity and have worked as an analyst before, but I plan on competing in several hackathons and Capture the Flag events to further build on my interests.    
-
 To Do:    
 1. Add Technologies I work in.  
 2. Add picture of Penn for a background.   
 3. Add some sIcK GiFs.    
+4. [Kyle Bess](https://www.linkedin.com/in/kyle9bess/)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
