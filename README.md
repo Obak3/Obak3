@@ -2,6 +2,14 @@
 
 
 My name is [Kyle Bess](https://www.linkedin.com/in/kyle9bess/) and I'm a graduate student at the University of Pennsylvania. My main interests consist of trying to better understand the intricacies and minutia of software security and architecture. I'm mainly a Python and Go Dev, but can't wait to touch more techs. Welcome to my GitHub! Feel free to check out my projects and medium articles.
+#### Projects on the Horizon:
+	1. Monkeytype.com-esque CLI tool because I'm a keyboard nerd
+	2. Pomodoro timer to start dialing in my attention for Grad School
+	3. Finishing out Push Button Poet (Read the README)
+	4. Writing some super simple Malware to get a feel for it
+⚡ Hobbies: Fixed Gear Bikes, Watches, Guitars, and Keyboards.
+
+
 
 <!--
 To Do:    
