@@ -8,7 +8,7 @@ My name is [Kyle Bess](https://www.linkedin.com/in/kyle9bess/) and I'm a graduat
 	3. Finishing out Push Button Poet (Read the README)
 	4. Writing some super simple Malware to get a feel for it
 	5. Django/Python website for riders to get gear inches, maybe a forum
-⚡ Hobbies: Fixed Gear Bikes, Watches, Guitars, and Keyboards.
+⚡ Hobbies: Fixed Gear Bikes, Watches, Guitars, and Mechanical Keyboards.
 
 
 
