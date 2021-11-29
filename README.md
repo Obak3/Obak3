@@ -10,6 +10,8 @@ My name is [Kyle Bess](https://www.linkedin.com/in/kyle9bess/) and I'm a graduat
 	5. Django/Python website for riders to get gear inches, maybe a forum
 ⚡ Hobbies: Fixed Gear Bikes, Watches, Guitars, and Mechanical Keyboards.
 
+Please don't bully me on contributions. Everything is done in private repos for school because they care about things like plagirism.
+
 
 
 <!--
