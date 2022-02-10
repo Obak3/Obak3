@@ -6,7 +6,6 @@ My name is [Kyle Bess](https://www.linkedin.com/in/kyle9bess/) and I'm a graduat
 	1. LeetCode Pomodoro timer w/ Markdown Entry for taking notes on problems (GO)
 	2. 'Open Source' Master's degree. My Master's, but for free.... (Python and Java)
 	3. Monkeytype.com-esque CLI tool because I'm a keyboard nerd (RUST)
-	4. Pomodoro timer to start dialing in my attention for Grad School
 
 ⚡ Hobbies: Fixed Gear Bikes, Watches, Guitars, and Mechanical Keyboards.
 
