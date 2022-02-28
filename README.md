@@ -10,13 +10,3 @@ My name is [Kyle Bess](https://www.linkedin.com/in/kyle9bess/) and I'm a graduat
 ⚡ Hobbies: Fixed Gear Bikes, Watches, Guitars, and Mechanical Keyboards.
 
 Please don't bully me on contributions. Everything is done in private repos for school because they care about things like plagirism.
-
-
-
-<!--
-To Do:    
-1. Add Technologies I work in.  
-2. Add picture of Penn for a background.   
-3. Add some sIcK GiFs.    
-4. [Kyle Bess](https://www.linkedin.com/in/kyle9bess/)
--->
