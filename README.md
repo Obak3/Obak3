@@ -7,6 +7,6 @@ My name is [Kyle Bess](https://www.linkedin.com/in/kyle9bess/) and I'm a graduat
 	2. 'Open Source' Master's degree. My Master's, but for free.... (Python and Java)
 	3. Monkeytype.com-esque CLI tool because I'm a keyboard nerd (RUST)
 
-⚡ Hobbies: Fixed Gear Bikes, Watches, Guitars, and Mechanical Keyboards.
+⚡ Hobbies: Gravel Bikes, Watches, Guitars, and Mechanical Keyboards.
 
 Please don't bully me on contributions. Everything is done in private repos for school because they care about things like plagirism.
